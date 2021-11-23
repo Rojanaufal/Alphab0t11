@@ -5,14 +5,14 @@
 	"user_register": false,
 	"anti_delete" : false,
 	"anticall": true,
-	"prefix": ".",
+	"prefix": "/",
 	"language":"ind",
-	"ownerNumber": "6281274179050",
-	"ownerNumberr": "6281274179050",
-	"cr": "@Anna",
-	"ownername": "Oreki",
-	"botname":"Keyz Botz",
+	"ownerNumber": "62881027203521",
+	"ownerNumberr": "62881027203521",
+	"cr": "@Roja",
+	"ownername": "Roja",
+	"botname":"ROJA BOT",
 	"thumb":"thumbnail_1.jpg",
 	"fakethumb":"thumbnail_1.jpg", 
-	"fake": " 「  Keyz Botz  」\nCreated By @anna"
+	"fake": " 「  ROJA BOT  」\nCreated By @anna"
 }
